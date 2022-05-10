@@ -4,7 +4,7 @@ public class Constructor {
 	int Reg_no;
 	String Name;
 	String Model="Hero";
-	String colour="red";
+	String colour="blue";
 	double price=50000;
 	
 	Constructor(){
